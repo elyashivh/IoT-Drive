@@ -23,7 +23,7 @@ Data is transmitted via TCP from the kernel space to the user space using the Li
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ### Compilation with Makefile
 
@@ -45,7 +45,7 @@ executables files:
 
 ## Each **minion** device run his own port(8001-8003)
 
-### 🔌 Mounting the Drive
+### Mounting the Drive
 
 1. Load the NBD kernel module:
 
