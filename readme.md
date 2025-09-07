@@ -43,7 +43,7 @@ executables files:
 3. minion2.out
 4. minion3.out
 
-## Each **minion** device run his own port(8001-8003)
+- Each **minion** device run his own port(8001-8003)
 
 ### Mounting the Drive
 
